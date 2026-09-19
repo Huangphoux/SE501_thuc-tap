@@ -16,7 +16,7 @@
 
     #text(size: 20pt, weight: "bold")[
       BÁO CÁO THỰC TẬP DOANH NGHIỆP\
-      [VỊ TRÍ THỰC TẬP]
+      PYTHON DEVELOPER INTERN
     ]
 
     #v(1fr)
@@ -28,8 +28,8 @@
         columns: 2,
         align: (left, left),
         stroke: none,
-        [Công ti thực tập:], [[Công ti thực tập]],
-        [Người phụ trách:], [[Mentor]],
+        [Công ti thực tập:], [Công ty TNHH Giải pháp Phần mềm Tường Minh],
+        [Người phụ trách:], [Nguyễn Đông Triều],
         [Thực tập sinh:], [Trương Hoàng Phúc],
       )
     }

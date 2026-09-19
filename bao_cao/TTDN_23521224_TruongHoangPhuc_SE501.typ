@@ -103,7 +103,7 @@
 #set heading(numbering: "1.")
 
 = GIỚI THIỆU CÔNG TY THỰC TẬP
-== Giới thiệu […]
+== Giới thiệu TMA Solutions
 #include "100_gioi-thieu/gioi-thieu.typ"
 == Sản phẩm công ti
 #include "100_gioi-thieu/san-pham.typ"

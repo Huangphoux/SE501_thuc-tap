@@ -1,6 +1,6 @@
 #figure(
-  image("../000_mo-dau/logo-uit.png"),
-  caption: [Logo],
+  image("../images/TMA-Solutions-Logo.png", width: 75%),
+  caption: [Logo của TMA Solutions],
 )
 
 [Giới thiệu về tên gọi, lịch sử hình thành, quy mô công ty, …]
