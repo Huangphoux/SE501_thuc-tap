@@ -4,4 +4,4 @@ Công nghệ Web, hay công nghệ sản xuất các trang web đã phục vụ 
 
 Do đó, một trang web muốn được nhiều người sử dụng phải đáp ứng được yếu tố hình thức và nội dung. Làm thế nào để sản phẩm tạo ra đạt chất lượng cao ở hai yếu tố trên luôn làm bất kì một đội ngũ phát triển website nào cũng cần phải suy nghĩ đau đầu. Để thử thách bản thân trong ngành công nghiệp web, em đã lựa chọn Full stack web developer là định hướng cho việc học cũng như nghề nghiệp trong tương lai.
 
-Sau những năm tháng trong môi trường đại học, với mong muốn áp dụng những kiến thức đã học và có được trải nghiệm trong môi trường thực tế, em đã quyết định tham gia vào […] — một môi trường lý tưởng và chuyên nghiệp để thực hiện dự định.
+Sau những năm tháng trong môi trường đại học, với mong muốn áp dụng những kiến thức đã học và có được trải nghiệm trong môi trường thực tế, em đã quyết định tham gia vào TMA Solutions — một môi trường lý tưởng và chuyên nghiệp để thực hiện dự định.
