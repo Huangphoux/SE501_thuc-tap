@@ -1,3 +1,3 @@
-- Nội dung:
+- Nội dung: Sửa lỗi mô hình ngôn ngữ trả kết quả lặp lại cho đầu vào tiếng Việt. Tiếp tục công việc thêm tin tức của sự kiện vào cơ sở dữ liệu. Team lên kế hoạch viết lại toàn bộ API sử dụng GraphQL thay vì JSON API và một Back End cho cả 4 Front End (trang sản phẩm, trang học tập, ứng dụng di động, trang người quản lí).
 
-- Kết quả:
+- Kết quả: Thêm chỉ dẫn cản mô hình lặp lại kết quả và chủ động lọc kết quả lặp lại bằng code thủ công. Quyết định biểu diễu các đề mục trong tin tức bằng cú pháp Markdown. Nảy sinh vấn đề không có cách để hiển thị hình ảnh trong bài đăng tin tức. Máy chủ chạy cơ sở dữ liệu và MinIO nội bộ trong team thường xuyên bị sập trong giai đoạn này.

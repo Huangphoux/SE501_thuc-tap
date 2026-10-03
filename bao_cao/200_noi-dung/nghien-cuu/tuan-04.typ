@@ -1,0 +1,3 @@
+- Nội dung: Kiểm thử API truy vấn và chỉnh sửa thông tin cá nhân của người dùng. Bắt đầu các công việc mới là viết API truy vấn và lọc danh sách các từ vựng để học ngôn ngữ kí hiệu.
+
+- Kết quả: Do bên DevOps chưa giải quyết được vấn đề máy chủ bị sập, team phải tự dựng một máy chủ tạm bợ trong phòng. Máy chủ này sử dụng phiên bản chưa được cập nhật của repo, nên chưa thể kiểm thử API thông tin cá nhân của người dùng. Ban đầu công việc là phải viết API truy vấn danh sách và API tìm và lọc từ vựng riêng biệt nhau, nhưng do nếu khi truy vấn thì cũng có thể tìm và lọc, nên đã gộp hai công việc và hai API này lại thành một.

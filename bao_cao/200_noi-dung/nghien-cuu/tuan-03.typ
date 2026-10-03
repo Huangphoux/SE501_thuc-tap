@@ -1,0 +1,3 @@
+- Nội dung: Tiếp tục công việc thêm tin tức vào cơ sở dữ liệu. Kiểm thử kết quả sau khi sửa lỗi mô hình máy học trả kết quả lặp lại. Bắt đầu viết API bằng GraphQL, công việc đầu tiên là viết API truy vấn và sửa thông tin cá nhân của người dùng. Quay video thu thập dữ liệu ngôn ngữ kí hiệu để luyện mô hình máy học.
+
+- Kết quả: Quyết định để tên tệp các hình ảnh trong tin tức và đẩy nghĩa vụ hiển thị cho bên Back End (dù sao vẫn còn chưa có giao diện để xem tin tức). Do lần đầu tiếp xúc với GraphQL, cấu trúc thư mục dày đặc và phức tạp, và nỗ lực cố gắng viết thủ công từng dòng code để hiểu được luồng hoạt động, việc viết API tốn khá nhiều thời gian so với dự tính ban đầu.

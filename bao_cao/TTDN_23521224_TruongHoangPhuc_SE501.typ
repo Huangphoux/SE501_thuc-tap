@@ -115,8 +115,8 @@
 #include "200_noi-dung/tim-hieu.typ"
 == Nghiên cứu kĩ thuật
 #include "200_noi-dung/nghien-cuu.typ"
-== Thực hiện dự án cá nhân
-#include "200_noi-dung/ca-nhan.typ"
+// == Thực hiện dự án cá nhân
+// #include "200_noi-dung/ca-nhan.typ"
 == Tham gia dự án thực tế
 #include "200_noi-dung/thuc-te.typ"
 

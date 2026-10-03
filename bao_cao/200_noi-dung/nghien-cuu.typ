@@ -3,3 +3,9 @@
 
 === Tuần 2
 #include "nghien-cuu/tuan-02.typ"
+
+=== Tuần 3
+#include "nghien-cuu/tuan-03.typ"
+
+=== Tuần 4
+#include "nghien-cuu/tuan-04.typ"
